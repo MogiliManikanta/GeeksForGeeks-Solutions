@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
