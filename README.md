@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1293-three-consecutive-odds](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1293-three-consecutive-odds) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
