@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0053-maximum-subarray) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0189-rotate-array) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0229-majority-element-ii) |
