@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
