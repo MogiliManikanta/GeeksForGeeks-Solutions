@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0726-number-of-atoms) |
 | [1552-build-an-array-with-stack-operations](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
@@ -151,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
