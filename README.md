@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0136-single-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0943-sum-of-subarray-minimums](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## String
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0085-maximal-rectangle) |
 | [0232-implement-queue-using-stacks](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0726-number-of-atoms) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0085-maximal-rectangle) |
 ## Recursion
 |  |
 | ------- |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0085-maximal-rectangle) |
 | [0943-sum-of-subarray-minimums](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
