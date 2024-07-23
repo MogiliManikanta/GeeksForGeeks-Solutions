@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1293-three-consecutive-odds](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1552-build-an-array-with-stack-operations](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2227-sum-of-subarray-ranges](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0726-number-of-atoms) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0726-number-of-atoms) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Linked List
 |  |
 | ------- |
