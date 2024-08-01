@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2227-sum-of-subarray-ranges](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2727-number-of-senior-citizens](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0726-number-of-atoms](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0726-number-of-atoms) |
+| [2727-number-of-senior-citizens](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
