@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0556-next-greater-element-iii) |
+| [0650-2-keys-keyboard](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0650-2-keys-keyboard) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0650-2-keys-keyboard](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0943-sum-of-subarray-minimums](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## String
 |  |
