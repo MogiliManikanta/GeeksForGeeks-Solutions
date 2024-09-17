@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0726-number-of-atoms) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Two Pointers
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0229-majority-element-ii) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0726-number-of-atoms](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0726-number-of-atoms) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2727-number-of-senior-citizens](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
