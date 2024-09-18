@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0268-missing-number) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0726-number-of-atoms](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0726-number-of-atoms) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Data Stream
