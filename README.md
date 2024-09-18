@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1552-build-an-array-with-stack-operations](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2227-sum-of-subarray-ranges](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2227-sum-of-subarray-ranges) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1646-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
