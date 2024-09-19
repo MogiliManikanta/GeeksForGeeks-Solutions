@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0650-2-keys-keyboard](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0650-2-keys-keyboard) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0650-2-keys-keyboard](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0943-sum-of-subarray-minimums](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0402-remove-k-digits](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0726-number-of-atoms](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0726-number-of-atoms) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -302,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0493-reverse-pairs) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
