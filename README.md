@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2755-extra-characters-in-a-string](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2755-extra-characters-in-a-string) |
 ## Two Pointers
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
