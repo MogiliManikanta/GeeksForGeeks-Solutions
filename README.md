@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1034-subarrays-with-k-different-integers](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1293-three-consecutive-odds) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0940-fruit-into-baskets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2755-extra-characters-in-a-string](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0229-majority-element-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1034-subarrays-with-k-different-integers](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0940-fruit-into-baskets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
