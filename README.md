@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0432-all-oone-data-structure](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0328-odd-even-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0432-all-oone-data-structure](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0937-online-stock-span](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -367,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2755-extra-characters-in-a-string](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2755-extra-characters-in-a-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
