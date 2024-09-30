@@ -10,28 +10,24 @@ class Solution {
                     result.add(matrix[rowBegin][i]);
                 }
                 rowBegin++;
-                dir++;
             }
             else if(dir==1) {
                 for(int i=rowBegin;i<=rowEnd;i++) {
                     result.add(matrix[i][colEnd]);
                 }
                 colEnd--;
-                dir++;
             }
-            else if(dir==3) {
+            else if(dir==2) {
                 for(int i=colEnd;i>=colBegin;i--) {
                     result.add(matrix[rowEnd][i]);
                 }
                 rowEnd--;
-                dir++;
             }
             else{
                 for(int i=rowEnd;i>=rowBegin;i--) {
                     result.add(matrix[i][colBegin]);
                 }
                 colBegin++;
-                dir++;
             }
             dir = (dir+1)%4;
         }
