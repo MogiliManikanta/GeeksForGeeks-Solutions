@@ -1,51 +1,57 @@
 class MinStack {
-    Stack<Long>stack;
-    Long mini = Long.MAX_VALUE;
+    Stack<Long> stack;  // Stack to store long values (either normal or encoded values)
+    Long mini = Long.MAX_VALUE;  // To keep track of the minimum element
 
     public MinStack() {
-        stack=new Stack<>();
+        stack = new Stack<>();  // Initialize an empty stack
     }
-    
+
+    // Push a value into the stack
     public void push(int val) {
-        long value = val;
-        if(stack.isEmpty()) {
-            stack.push(value);
-            mini=value;
-        }
-        else{
-            if(value>mini) {
-                stack.push(value);
-            }
-            else{
-                long newVal = 2 * value - mini;
-                stack.push(newVal);
-                mini=value;
+        long value = val;  // Cast int to long for consistency
+        if (stack.isEmpty()) {  // If the stack is empty, this is the first element
+            stack.push(value);  // Push the value as it is
+            mini = value;  // Set the minimum to this value since it's the only one
+        } else {
+            if (value > mini) {  // If the new value is greater than the current minimum
+                stack.push(value);  // Push the value as it is
+            } else {
+                // If the new value is smaller than or equal to the minimum, we store an encoded value
+                long newVal = 2 * value - mini;  // Encode the new value using the formula
+                stack.push(newVal);  // Push the encoded value onto the stack
+                mini = value;  // Update the minimum to the new value
             }
         }
     }
-    
+
+    // Pop a value from the stack
     public void pop() {
-        if(stack.isEmpty()) return;
-        long popElement = stack.pop();
-        if(popElement<mini){
-            mini = 2 * mini - popElement;
+        if (stack.isEmpty()) return;  // If the stack is empty, nothing to pop
+        long popElement = stack.pop();  // Get the top element (either normal or encoded)
+
+        if (popElement < mini) {  // If the popped element is less than the current minimum
+            // This means it's an encoded value, so we need to restore the previous minimum
+            mini = 2 * mini - popElement;  // Restore the previous minimum using the formula
         }
     }
-    
+
+    // Get the top element of the stack
     public int top() {
-        if(stack.isEmpty()) return -1;
-        long element = stack.peek();
-        if(element<mini) {
-            return mini.intValue();
+        if (stack.isEmpty()) return -1;  // Return -1 if the stack is empty
+        long element = stack.peek();  // Peek the top element of the stack
+        
+        if (element < mini) {  // If it's encoded (less than the current minimum)
+            return mini.intValue();  // Return the current minimum
         }
-        // return element.intValue();
-        return (int) element;  // Cast long to int
+        return (int) element;  // Otherwise, return the actual element
     }
-    
+
+    // Get the minimum value in the stack
     public int getMin() {
-        return mini.intValue();
+        return mini.intValue();  // Return the current minimum
     }
 }
+
 
 
  /***
