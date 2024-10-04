@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0402-remove-k-digits) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0432-all-oone-data-structure](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0937-online-stock-span](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0937-online-stock-span) |
