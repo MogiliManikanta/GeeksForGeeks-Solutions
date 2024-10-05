@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0556-next-greater-element-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0567-permutation-in-string) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0402-remove-k-digits](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2727-number-of-senior-citizens](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2727-number-of-senior-citizens) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1046-max-consecutive-ones-iii) |
