@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1923-sentence-similarity-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2727-number-of-senior-citizens](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0726-number-of-atoms) |
 | [0937-online-stock-span](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1552-build-an-array-with-stack-operations](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [2227-sum-of-subarray-ranges](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Data Stream
 |  |
 | ------- |
