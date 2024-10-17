@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0650-2-keys-keyboard](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0670-maximum-swap) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Bit Manipulation
 |  |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3195-separate-black-and-white-balls](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Data Stream
