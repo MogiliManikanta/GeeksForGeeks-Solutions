@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0402-remove-k-digits) |
@@ -311,12 +312,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0432-all-oone-data-structure](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0937-online-stock-span](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
