@@ -24,7 +24,7 @@ class Solution {
             for(int j=i+1;j<=i+n-1;j++) {
                 if(arr[j%n]>arr[i]){
                     result[i]=arr[j%n];
-                    break;
+                    break;//imp
                 }
             }
         }
