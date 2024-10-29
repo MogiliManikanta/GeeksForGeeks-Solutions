@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2727-number-of-senior-citizens](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0943-sum-of-subarray-minimums](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2755-extra-characters-in-a-string](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
