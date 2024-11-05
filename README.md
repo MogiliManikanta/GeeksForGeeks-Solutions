@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0735-asteroid-collision](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0670-maximum-swap) |
+| [0890-lemonade-change](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [3195-separate-black-and-white-balls](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/3195-separate-black-and-white-balls) |
