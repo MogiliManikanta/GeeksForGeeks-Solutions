@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0792-binary-search) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -424,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1325-path-with-maximum-probability](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
@@ -481,4 +487,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
