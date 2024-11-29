@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2227-sum-of-subarray-ranges](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2727-number-of-senior-citizens](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Recursion
 |  |
@@ -442,10 +445,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1325-path-with-maximum-probability](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1325-path-with-maximum-probability) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1325-path-with-maximum-probability) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -490,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
