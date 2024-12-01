@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1552-build-an-array-with-stack-operations](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2755-extra-characters-in-a-string](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1923-sentence-similarity-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/0726-number-of-atoms) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
