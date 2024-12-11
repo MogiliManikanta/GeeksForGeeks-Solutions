@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Hash Table
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sorting
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Linked List
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MogiliManikanta/GeeksForGeeks-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
 |  |
